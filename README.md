@@ -6,14 +6,6 @@
   </h1>
  </div>
 
-##  TradeHat.com  
-  
-
-[Link](https://tradehat.com/)
-
-![](TradeHat.com.png)
-![](TradeHat-screener.png)
-
 ##  revampCV
 
 
